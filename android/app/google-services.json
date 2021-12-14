@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56144144765",
+    "project_id": "group-up-3f1f1",
+    "storage_bucket": "group-up-3f1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56144144765:android:c3ce44ed073acfbf52c414",
+        "android_client_info": {
+          "package_name": "com.groupup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56144144765-j1qhadjm3vgbkmportmisf70ftv8jr5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-T8oULHdZq-LKI3Jv5CN6S0IbTpyTMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56144144765-j1qhadjm3vgbkmportmisf70ftv8jr5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
